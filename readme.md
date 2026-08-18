@@ -11,6 +11,12 @@
 - `readme.md` – this documentation file.
 - `readme_zh.md` – the Chinese original instruction documentation.
 
+`Coating optimization.png` test like:
+![Coated (with coating)](image/coating_pic_en.png)
+
+`Uncoated optimization.png`test like:
+![Uncoated (without coating)](image/uncoated_pic_en.png)
+
 ## Core Principle
 
 The information light source passes through the lens group by refraction; at the same time, multiple internal reflections occur between the lenses. The brightness of the reflected ghost light reaching the eye is lower than that of the direct refracted light. When the background light is dimmer than the ghost light, we can approximately decompose the light using the additive colour mixing model to isolate the ghost light brightness, thereby calculating the transparency quantitatively – providing a data basis for optical structure optimisation.
