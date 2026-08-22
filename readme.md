@@ -10,6 +10,8 @@
 - `Uncoated optimization.png` – test image without anti‑reflection coating (transparency ≈ 60%).
 - `readme.md` – this documentation file.
 - `readme_zh.md` – the Chinese original instruction documentation.
+- `Siliconshadow-class_diagram&function_invocation_relationship_diagram.bmp` - the software class diagram and function call relationship diagram
+
 
 `Coating optimization.png` test like:
 ![Coated (with coating)](image/coating_pic_en.png)

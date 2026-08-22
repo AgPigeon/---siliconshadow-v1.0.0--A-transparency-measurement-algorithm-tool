@@ -12,6 +12,8 @@
 - `Uncoated optimization.png` – 无镀膜优化的重影测试样张（透明度约在60%上下）
 - `readme.md` – 英文译文说明文件
 - `readme_zh.md` – 本文中文原文说明文件.
+- `Siliconshadow-class_diagram&function_invocation_relationship_diagram.bmp` - 软件类图与函数调用关系图
+
 
 `Coating optimization.png` 镀膜优化测试样例如图：
 ![有镀膜优化](image/coating_pic_zh.png)
